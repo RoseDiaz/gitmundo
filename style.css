@@ -1,0 +1,22 @@
+body{
+    font-family: 'Fredoka', sans serif;
+    background: rgb(209, 204, 204);
+}
+ h1 { 
+    text-align: justify;
+    color: rgb(28, 28, 70);
+    font-size: 25px;
+    margin: 20px;
+}
+
+ .contacto{
+    width: 380px;
+    height: 200px;
+    font-size: 25px;
+    margin: 20px;
+    background:rgb(227, 245, 240);
+    color: #008156;  
+    padding: 10px; 
+    border: 3px solid #53c29d; 
+    border-radius: 6px;    
+}
