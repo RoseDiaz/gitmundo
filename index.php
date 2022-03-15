@@ -9,6 +9,8 @@
     <title>Inicio</title>
 </head>
 <body class="inicio">
-    <h1>En nuestro proyecto integrador, haremos una aplicacion web en la que podamos controlar algunas funciones basicas de una casa, como son las luces puertas, ventanas, alarmas, entre otras cosas</h1>
+    <marquee>
+       Saludos cordiales TICsitos
+    </marquee>
 </body>
 </html>

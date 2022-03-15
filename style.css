@@ -2,9 +2,9 @@ body{
     font-family: 'Fredoka', sans serif;
     background: rgb(209, 204, 204);
 }
- h1 { 
+ marquee { 
     text-align: justify;
-    color: rgb(28, 28, 70);
+    color: rgb(16, 160, 0);
     font-size: 25px;
     margin: 20px;
 }
